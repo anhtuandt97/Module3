@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+          integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css"
+          integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+            integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+            crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+            integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+            crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="CSS.css">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>jQuery UI Draggable - Default functionality</title>
+    <!--    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">-->
+    <style>
+        #draggable { width: 150px; height: 150px; padding: 0.5em; }
+    </style>
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <script>
+        $("button").on("click", function () {
+            window.location.href = "https://jqueryui.com/accordion/";
+        })
+    </script>
+</head>
+<body style="cursor: auto;">
+<nav class="navbar navbar-expand-lg fixed-top" style="background: black">
+    <ul class="nav " id="nav">
+        <li class="nav-item">
+            <a href="index.html" class="nav-link text-light">
+                <i class="fas fa-home"></i> Home</a>
+        </li>
+        <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle text-light" data-toggle="dropdown" href="#" role="button"
+               aria-haspopup="true"
+               aria-expanded="false">
+                <i class="fas fa-book"></i> jQuery UI</a>
+            <div class="dropdown-menu" style="width: 400px">
+                <div class="row">
+                    <div class="col-sm-6">
+                        <a class="dropdown-item" href="dragable.html">Draggable</a>
+                        <a class="dropdown-item" href="dropable.html">Droppable</a>
+                        <a class="dropdown-item" href="selectable.html">Selectable</a>
+                        <a class="dropdown-item" href="sortable.html">Sortable</a>
+                        <a class="dropdown-item" href="accordion.html">Accordion</a>
+                        <a class="dropdown-item" href="autocomplete.html">Autocomplete</a>
+                    </div>
+                    <div class="col-sm-6">
+                        <a class="dropdown-item" href="dialog.html">Dialog</a>
+                        <a class="dropdown-item" href="progressbar.html">Progressbar</a>
+                        <a class="dropdown-item" href="spinner.html">Spinner</a>
+                        <a class="dropdown-item" href="addClass.html">Add class</a>
+                        <a class="dropdown-item" href="remove.html">Remove class</a>
+                        <a class="dropdown-item" href="datepicker.html">Datepicker</a>
+                    </div>
+                </div>
+            </div>
+        </li>
+        <li class="nav-item">
+            <a href="https://jqueryui.com/" class="nav-link text-light">
+                <i class="fab fa-js-square"></i> About</a>
+        </li>
+    </ul>
+</nav>
+<div id="content-wrapper">
+    <div class="content-right ">
+        <div id="content" class="col-sm-8" >
+            <h1 >Control Group</h1>
+
+            <iframe class="frame"
+                    src="https://jqueryui.com/resources/demos/controlgroup/default.html" ></iframe>
+        </div>
+        <div id="sidebar" class="widget-area" role="complementary">
+            <aside class="widget">
+                <h3 class="widget-title">Interaction</h3>
+                <ul>
+                    <li><a href="dragable.html"> Draggable</a></li>
+                </ul>
+                <ul>
+                    <li><a href="dropable.html"> Droppable</a></li>
+                </ul>
+                <ul>
+                    <li><a href="resizable.html"> Resizable</a></li>
+                </ul>
+                <ul>
+                    <li><a href="selectable.html"> Selectable</a></li>
+                </ul>
+                <ul>
+                    <li><a href="sortable.html"> Sortable</a></li>
+                </ul>
+            </aside>
+            <aside class="widget">
+                <h3 class="widget-title">Widgets</h3>
+                <ul>
+                    <li><a href="accordion.html">Accordion</a></li>
+                </ul>
+                <ul>
+                    <li><a href="autocomplete.html">Autocomplete</a></li>
+                </ul>
+                <ul>
+                    <li><a href="button.html">Button</a></li>
+                </ul>
+                <ul>
+                    <li><a href="checkboxradio.html">Checkboxradio</a></li>
+                </ul>
+                <ul>
+                    <li><a href="Controlgroup.html">Controlgroup</a></li>
+                </ul>
+                <ul>
+                    <li><a href="datepicker.html">Datepicker</a></li>
+                </ul>
+                <ul>
+                    <li><a href="dialog.html">Dialog</a></li>
+                </ul>
+                <ul>
+                    <li><a href="menu.html">Menu</a></li>
+                </ul>
+                <ul>
+                    <li><a href="progressbar.html">Progressbar</a></li>
+                </ul>
+                <ul>
+                    <li><a href="Selectmenu.html">Selectmenu</a></li>
+                </ul>
+                <ul>
+                    <li><a href="Slider.html">Slider</a></li>
+                </ul>
+                <ul>
+                    <li><a href="spinner.html">Spinner</a></li>
+                </ul>
+                <ul>
+                    <li><a href="tabs.html">Tabs</a></li>
+                </ul>
+                <ul>
+                    <li><a href="tooltip.html">Tooltip</a></li>
+                </ul>
+            </aside>
+            <aside class="widget">
+                <h3 class="widdget-title">Effects</h3>
+                <ul>
+                    <li><a href="addClass.html">Addclass</a></li>
+                </ul>
+                <ul>
+                    <li><a href="animation.html">Collor Animation</a></li>
+                </ul>
+                <ul>
+                    <li><a href="easing.html">Easing</a></li>
+                </ul>
+                <ul>
+                    <li><a href="effect.html">Effect</a></li>
+                </ul>
+                <ul>
+                    <li><a href="hide.html">Hide</a></li>
+                </ul>
+                <ul>
+                    <li><a href="remove.html">Remove Class</a></li>
+                </ul>
+                <ul>
+                    <li><a href="show.html">Show</a></li>
+                </ul>
+                <ul>
+                    <li><a href="switch.html">Switch Class</a></li>
+                </ul>
+                <ul>
+                    <li><a href="toggle.html">Toggle</a></li>
+                </ul>
+                <ul>
+                    <li><a href="toggleClass.html">Toggle Class</a></li>
+                </ul>
+            </aside>
+            <aside class="widget">
+                <h3 class="widget-title">Utilities</h3>
+                <ul>
+                    <li><a href="position.html">Position</a></li>
+                </ul>
+                <ul>
+                    <li><a href="widgetFactory.html">Widget Factory</a></li>
+                </ul>
+            </aside>
+        </div>
+    </div>
+</div>
+</body>
+</html>
