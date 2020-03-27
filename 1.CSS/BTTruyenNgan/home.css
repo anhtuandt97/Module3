@@ -74,16 +74,27 @@ h1{
     margin: 10px 5px 10px 5px;
 }
 #content a{
+    text-decoration: none;
+    /*color: tomato;*/
+    top:53%;
+    width: 150px;
+    margin-top: 5px;
+    text-align: center;
+    font-weight: 700;
     display: block;
     color: #c69500;
     padding: 1px 20px;
-    text-decoration: none
+    /*text-decoration: none*/
+}
+#content li{
+    display: block;
+    float: left;
 }
 #right{
     background: #9fcdff;
     width: 340px;
     float: left;
-    margin: 10px 10px 10px 5px;
+    margin: 5px 5px 5px 5px;
 }
 #right a{
     display: block;

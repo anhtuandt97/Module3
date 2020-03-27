@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/html" >
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="button.css">
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="ajax.js"></script>
+</head>
+<body style="background-color: #ffcccc">
+<script>
+    $(document).ready(function() {
+    $("#exampleModal").click(function () {
+        let title = $("#title").val();
+        let fName = $("#fName").val();
+        let lName = $("#lName").val();
+        let position = $("#position").val();
+        let company = $("#company").val();
+        let business = $("#business").val();
+        let employee = $("#employee").val();
+
+        $("#title1").val(title);
+        $("#fName1").val(fName);
+        $("#lName1").val(lName);
+        $("#position1").val(position);
+        $("#company1").val(company);
+        $("#business1").val(business);
+        $("#employee1").val(employee);
+
+        $("#button").show();
+    });
+});
+
+
+</script>
+<div class="container">
+   <div class="row" >
+       <div class="col-sm-6" style="background-color: white">
+           <br>
+           <h2 style="color: #40b3ff" align="center">General Information </h2><br>
+               <select name="cars" class="custom-select mb-3" id="title">
+                   <option selected>Diamond</option>
+                   <option value="Gold">Gold</option>
+                   <option value="Sliver">Sliver</option>
+                   <option value="Platinum">Platinum</option>
+               </select>
+
+           <div class="input-group mb-3">
+               <input type="text" class="form-control col-lg-7" placeholder="First Name" id="fName"><hr>
+               <input type="text" class="form-control col-lg-6" placeholder="Last Name" id="lName">
+           </div>
+
+           <select name="cars" class="custom-select mb-3" id="position">
+               <option selected>Position</option>
+               <option value="volvo">Volvo</option>
+               <option value="fiat">Fiat</option>
+               <option value="audi">Audi</option>
+           </select>
+
+           <div class="input-group mb-3">
+               <input type="text" class="form-control" placeholder="Company" id="company">
+           </div>
+
+           <div class="input-group mb-3">
+               <input type="text" class="form-control col-lg-8" placeholder="Business Arena" id="business">      <hr>
+               <select name="cars" class="custom-select col-lg-4" id="employee">
+                   <option selected>Employees</option>
+                   <option value="volvo">Director</option>
+                   <option value="fiat">Manager</option>
+                   <option value="audi">Security</option>
+               </select>
+           </div>
+
+           <div class="text" style="word-break: break-word" ></div>
+
+       </div>
+
+       <div class="col-sm-6" style="background-color: royalblue">
+           <br>
+           <h2 style="color: white" align="center">Contact Details</h2>
+           <br>
+           <div class="input-group mb-3">
+               <input type="text" class="form-control" placeholder="Street + Nr">
+           </div>
+
+           <div class="input-group mb-3">
+               <input type="text" class="form-control" placeholder="Additional Information">
+           </div>
+
+           <div class="input-group mb-3">
+               <input type="text" class="form-control col-lg-3" placeholder="Zip Code">      <hr>
+
+               <select name="cars" class="custom-select col-lg-9">
+                   <option selected>Place</option>
+                   <option value="volvo">Volvo</option>
+                   <option value="fiat">Fiat</option>
+                   <option value="audi">Audi</option>
+               </select>
+           </div>
+
+           <select name="cars" class="custom-select mb-3">
+               <option selected>Country</option>
+               <option value="volvo">Viet Nam</option>
+               <option value="fiat">USA</option>
+               <option value="audi">China</option>
+           </select>
+
+           <div class="input-group mb-3">
+               <input type="text" class="form-control col-lg-3" placeholder="Code +"><hr>
+               <input type="text" class="form-control col-lg-9" placeholder="Phone Number">
+           </div>
+
+           <div class="input-group mb-3">
+               <input type="text" class="form-control" placeholder="Your Email">
+           </div>
+
+           <div class="custom-control custom-radio">
+               <input type="radio" class="custom-control-input" id="customRadio" name="example1" value="customEx">
+               <label class="custom-control-label" for="customRadio" style="color: white">
+                   I do accept the Temps and conditions of your site</label>
+           </div>
+           <br>
+
+           <a class="col-sm-2"></a>
+
+           <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+               <div class="modal-dialog" role="document">
+                   <div class="modal-content">
+                       <div class="modal-header" style="background-color: #ffcccc">
+                           <h3 class="modal-title" id="exampleModalLabel"  style="color: #40b3ff">Information</h3>
+                           <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                               <span aria-hidden="true">&times;</span>
+                           </button>
+                       </div>
+                       <div class="modal-body" style="background-color: cornsilk">
+
+                           <div class="row">
+                               <div class="col-sm-4 ">
+                                   <label style="float: right" for="title1" >Title</label>
+                               </div>
+
+                               <div class="col-sm-8">
+                                   <input type="text" id="title1" disabled>
+                               </div>
+                           </div>
+
+                           <div class="row">
+                               <div class="col-sm-4 lb">
+                                   <label style="float: right" for="fName1">First Name </label>
+                               </div>
+
+                               <div class="col-sm-8">
+                                   <input type="text" id="fName1" disabled>
+                               </div>
+                           </div>
+
+                           <div class="row">
+                               <div class="col-sm-4 lb">
+                                   <label style="float: right" for="lName1">Last Name </label>
+                               </div>
+
+                               <div class="col-sm-8">
+                                   <input type="text" id="lName1" disabled>
+                               </div>
+                           </div>
+                           <div class="row">
+                               <div class="col-sm-4 lb">
+                                   <label style="float: right" for="position1">Position</label>
+                               </div>
+
+                               <div class="col-sm-8">
+                                   <input type="text" id="position1" disabled>
+                               </div>
+                           </div>
+
+                           <div class="row">
+                               <div class="col-sm-4 lb">
+                                   <label style="float: right" for="company1">Company </label>
+                               </div>
+
+                               <div class="col-sm-8">
+                                   <input type="text" id="company1" disabled>
+                               </div>
+                           </div>
+
+                           <div class="row">
+                               <div class="col-sm-4 lb">
+                                   <label style="float: right" for="business1">Business </label>
+                               </div>
+
+                               <div class="col-sm-8">
+                                   <input type="text" id="business1" disabled>
+                               </div>
+                           </div>
+
+                           <div class="row">
+                               <div class="col-sm-4 lb">
+                                   <label style="float: right" for="employee1">Employees </label>
+                               </div>
+
+                               <div class="col-sm-8">
+                                   <input type="text" id="employee1" disabled>
+                               </div>
+                           </div>
+                       </div>
+                       <div class="modal-footer" style="background-color: #ffcccc">
+                           <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                       </div>
+                   </div>
+               </div>
+           </div>
+           <div>
+           <button type="button" class="btn btn-light btn-circle btn-md col-sm-4" data-toggle="modal" data-target="#exampleModal">
+               Register Badge
+           </button>
+               <a class="col-sm-4"></a>
+           <button type="button" class="btn btn-light btn-circle btn-md col-sm-3" id="ajax" >Ajax</button>
+           </div>
+       </div>
+   </div>
+</div>
+</body>
+</html>
+
