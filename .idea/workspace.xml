@@ -1,45 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a2a3df9-8ac8-4c6c-88ef-1dcda8419ede" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.AngularComponentTemplate/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-component/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-component/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-component/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-component/angular.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-component/browserslist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-component/e2e/protractor.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-component/e2e/src/app.e2e-spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-component/e2e/src/app.po.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-component/e2e/tsconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-component/karma.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-component/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-component/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-component/src/app/app.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-component/src/app/app.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-component/src/app/app.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-component/src/app/app.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-component/src/app/app.module.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-component/src/app/name-card/name-card.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-component/src/app/name-card/name-card.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-component/src/app/name-card/name-card.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-component/src/app/name-card/name-card.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-component/src/assets/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-component/src/assets/img/angular.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-component/src/environments/environment.prod.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-component/src/environments/environment.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-component/src/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-component/src/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-component/src/main.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-component/src/polyfills.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-component/src/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-component/src/test.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-component/tsconfig.app.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-component/tsconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-component/tsconfig.spec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-component/tslint.json" beforeDir="false" />
-    </list>
+    <list default="true" id="3a2a3df9-8ac8-4c6c-88ef-1dcda8419ede" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/5.Angular/CGDN-Angular-StackBlitz-master/CGDN-Angular-StackBlitz-master/node_modules/" />
     <ignored path="$PROJECT_DIR$/5.Angular/angular-overview/angular-calculator/node_modules/" />
     <ignored path="$PROJECT_DIR$/5.Angular/angular-overview/angular-chance-font-size/node_modules/" />
@@ -77,6 +39,12 @@
   <component name="ProjectId" id="1Z4FBqtBNpRNTJYTp4gFEbKPGbK" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -180,7 +148,7 @@
       <workItem from="1585298082210" duration="368000" />
       <workItem from="1585705626660" duration="58000" />
       <workItem from="1585755654591" duration="9000" />
-      <workItem from="1586310296318" duration="133000" />
+      <workItem from="1586310296318" duration="323000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1584090360499</created>
@@ -224,11 +192,18 @@
       <option name="project" value="LOCAL" />
       <updated>1585298247032</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="commit">
+      <created>1586310580439</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1586310580440</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="133000" />
+    <option name="totallyTimeSpent" value="323000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
