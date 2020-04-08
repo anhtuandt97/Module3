@@ -1,17 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a2a3df9-8ac8-4c6c-88ef-1dcda8419ede" name="Default Changelist" comment="" />
+    <list default="true" id="3a2a3df9-8ac8-4c6c-88ef-1dcda8419ede" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6.AngularComponentTemplate/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-component/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-component/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-component/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-component/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-component/browserslist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-component/e2e/protractor.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-component/e2e/src/app.e2e-spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-component/e2e/src/app.po.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-component/e2e/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-component/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-component/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-component/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-component/src/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-component/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-component/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-component/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-component/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-component/src/app/name-card/name-card.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-component/src/app/name-card/name-card.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-component/src/app/name-card/name-card.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-component/src/app/name-card/name-card.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-component/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-component/src/assets/img/angular.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-component/src/environments/environment.prod.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-component/src/environments/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-component/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-component/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-component/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-component/src/polyfills.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-component/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-component/src/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-component/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-component/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-component/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-component/tslint.json" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/5.Angular/CGDN-Angular-StackBlitz-master/CGDN-Angular-StackBlitz-master/node_modules/" />
+    <ignored path="$PROJECT_DIR$/5.Angular/angular-overview/angular-calculator/node_modules/" />
     <ignored path="$PROJECT_DIR$/5.Angular/angular-overview/angular-chance-font-size/node_modules/" />
+    <ignored path="$PROJECT_DIR$/5.Angular/angular-overview/angular-color-picker/node_modules/" />
+    <ignored path="$PROJECT_DIR$/5.Angular/angular-overview/angular-show-pet-profile/node_modules/" />
     <ignored path="$PROJECT_DIR$/4.TypeScript/THbienKieuDuLieu/TH1.js/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -29,27 +68,6 @@
       <GitPushTagMode />
     </option>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/1.CSS/BTTruyen/custom.css" />
-        <option value="$PROJECT_DIR$/1.CSS/BTTruyen/truyen.html" />
-        <option value="$PROJECT_DIR$/1.CSS/BTTruyenNgan/home.css" />
-        <option value="$PROJECT_DIR$/1.CSS/BTTruyenNgan/home.html" />
-        <option value="$PROJECT_DIR$/2.Bootstrap/dd/hd.html" />
-        <option value="$PROJECT_DIR$/2.Bootstrap/Shoppee/shopingCss.css" />
-        <option value="$PROJECT_DIR$/2.Bootstrap/Shoppee/hhh.html" />
-        <option value="$PROJECT_DIR$/2.Bootstrap/Shoppee/jquery-3.2.0.min.js" />
-        <option value="$PROJECT_DIR$/2.Bootstrap/demo/man.js" />
-        <option value="$PROJECT_DIR$/2.Bootstrap/demo/main.js" />
-        <option value="$PROJECT_DIR$/2.Bootstrap/demo/demo.html" />
-        <option value="$PROJECT_DIR$/2.Bootstrap/Shoppee/ajax.js" />
-        <option value="$PROJECT_DIR$/2.Bootstrap/Shoppee/button.css" />
-        <option value="$PROJECT_DIR$/2.Bootstrap/Shoppee/shop.html" />
-        <option value="$PROJECT_DIR$/2.Bootstrap/Shoppee/user.html" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-9" />
     <option name="y" value="26" />
@@ -59,30 +77,6 @@
   <component name="ProjectId" id="1Z4FBqtBNpRNTJYTp4gFEbKPGbK" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Module3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Module3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Module3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Module3" type="462c0819:PsiDirectoryNode" />
-              <item name="1.CSS" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -183,6 +177,10 @@
       <workItem from="1585279549225" duration="590000" />
       <workItem from="1585291402147" duration="646000" />
       <workItem from="1585297731212" duration="267000" />
+      <workItem from="1585298082210" duration="368000" />
+      <workItem from="1585705626660" duration="58000" />
+      <workItem from="1585755654591" duration="9000" />
+      <workItem from="1586310296318" duration="133000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1584090360499</created>
@@ -212,29 +210,43 @@
       <option name="project" value="LOCAL" />
       <updated>1585297776095</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="commit">
+      <created>1585298094207</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1585298094207</updated>
+    </task>
+    <task id="LOCAL-00006" summary="commit">
+      <created>1585298247032</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1585298247032</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68465000" />
+    <option name="totallyTimeSpent" value="133000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25074404" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.29692832" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -261,6 +273,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="92" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1584090368086" />
+    <state x="359" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1585755659216">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="359" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585755659216" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -287,162 +303,5 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1.CSS/BTTruyen/truyen.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="41" column="6" lean-forward="true" selection-start-line="41" selection-start-column="6" selection-end-line="41" selection-end-column="6" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#li#1;n#ul#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#li#2;n#ul#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#li#3;n#ul#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#li#4;n#ul#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.CSS/BTTruyen/custom.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1630">
-          <caret line="97" column="25" lean-forward="true" selection-start-line="97" selection-start-column="25" selection-end-line="97" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.CSS/BTTruyenNgan/home.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="95" column="16" selection-start-line="95" selection-start-column="16" selection-end-line="95" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.Bootstrap/THCreateLayout/images/header-object.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.Bootstrap/Shoppee/img/tiki.htm" />
-    <entry file="file://$PROJECT_DIR$/2.Bootstrap/Shoppee/img/tiki.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.Bootstrap/Shoppee/img/tiki.jpg" />
-    <entry file="file://$PROJECT_DIR$/2.Bootstrap/Shoppee/img/logo-tiki.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.CSS/THBoCuc/custom.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.Bootstrap/BTGallery/config.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.Bootstrap/BTGallery/Gallery.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="38" column="28" lean-forward="true" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
-          <folding>
-            <element signature="n#style#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.CSS/BTTruyenNgan/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="19" column="45" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.Bootstrap/BTLAndingPage/landingPage.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1418">
-          <caret line="177" column="10" lean-forward="true" selection-start-line="177" selection-start-column="10" selection-end-line="177" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.Bootstrap/dd/hd.html" />
-    <entry file="file://$PROJECT_DIR$/2.Bootstrap/Shoppee/hhh.html" />
-    <entry file="file://$PROJECT_DIR$/2.Bootstrap/Shoppee/jquery-3.2.0.min.js" />
-    <entry file="file://$PROJECT_DIR$/2.Bootstrap/THCreateLayout/layout.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="23" column="39" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.Bootstrap/THCreateLayout/poly.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="491">
-          <caret line="40" column="34" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.Bootstrap/Shoppee/shopingCss.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="491">
-          <caret line="36" column="18" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.Bootstrap/demo/main.js" />
-    <entry file="file://$PROJECT_DIR$/2.Bootstrap/demo/demo.html" />
-    <entry file="file://$PROJECT_DIR$/2.Bootstrap/Shoppee/user.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="28" column="38" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
-          <folding>
-            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h2#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#label#0;n#div#5;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#6;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#div#6;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#6;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#label#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#6;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#label#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#6;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#label#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#div#6;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#label#0;n#div#0;n#div#3;n#div#1;n#div#0;n#div#0;n#div#6;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#label#0;n#div#0;n#div#4;n#div#1;n#div#0;n#div#0;n#div#6;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#label#0;n#div#0;n#div#5;n#div#1;n#div#0;n#div#0;n#div#6;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#label#0;n#div#0;n#div#6;n#div#1;n#div#0;n#div#0;n#div#6;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#6;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.Bootstrap/Shoppee/shop.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="491">
-          <caret line="78" column="89" selection-start-line="78" selection-start-column="89" selection-end-line="78" selection-end-column="89" />
-          <folding>
-            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#0;n#div#1;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.Bootstrap/Shoppee/button.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.Bootstrap/Shoppee/ajax.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="57" selection-start-line="5" selection-start-column="56" selection-end-line="5" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
