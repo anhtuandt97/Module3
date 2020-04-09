@@ -14,10 +14,10 @@ export class ImageGalleryComponent implements OnInit {
     'https://via.placeholder.com/1280x420/e91e63/ffffff?text=4'
   ];
   itemWidth: number;
-  config: 4 ;
+  config: number;
   constructor(@Inject(GalleryConfig)
               @Optional()
-                config: number
+                config: 4
   ) {
     if (config) { this.config = config;
     }
