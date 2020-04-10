@@ -1,16 +1,16 @@
 <div class="row p-5 justify-content-between">
   <h3>Danh sách nhân viên</h3>
   <div class="d-flex">
-  <input class="form-control mr-3" placeholder="Tìm kiếm theo tên nhân viên" style="width: 300px">
+  <input class="form-control mr-3" placeholder="Tìm kiếm theo tên nhân viên"  style="width: 300px" [(ngModel)]="search">
   <button class="btn btn-outline-success" >Tìm kiếm</button>
   </div>
 </div>
 
-<div class="row p-5 mt-3 justify-content-between">
-  <button class="btn btn-info">Thêm mới</button>
+<div class="row p-3 mt-2 justify-content-between">
+  <button class="btn btn-info" [routerLink]="['employee-create']">Thêm mới</button>
   <table class="table mt-3 table-bordered table-hover" style="font-size: 12px">
     <thead>
-    <tr>
+    <tr class="text-center">
       <th>ID</th>
       <th>Họ Tên</th>
       <th>Vị Trí</th>
@@ -25,9 +25,9 @@
       <th>Action</th>
     </tr>
     </thead>
-    <tbody>
-    <tr *ngFor="let item of employee; let e = even"
-    [style.background-color]= "e === false ? 'while' : 'rgba(163,177,177,0.84)' " >
+    <tbody *ngFor="let item of employee | filter:search | paginate: { itemsPerPage: 5, currentPage: page }; let e = even"
+           [style.background-color]= "e === false ? 'while' : 'rgba(163,177,177,0.84)' ">
+    <tr >
       <td>{{item.id}}</td>
       <td>{{item.name}}</td>
       <td>{{item.position}}</td>
@@ -35,7 +35,7 @@
       <td>{{item.department}}</td>
       <td>{{item.birthDay}}</td>
       <td>{{item.idCard}}</td>
-      <td>{{item.salary}} USD</td>
+      <td>{{item.salary}}$</td>
       <td>{{item.phoneNumber}}</td>
       <td>{{item.email}}</td>
       <td>{{item.address}}</td>
@@ -46,4 +46,5 @@
     </tr>
     </tbody>
   </table>
+  <pagination-controls (pageChange)="page = $event"></pagination-controls>
 </div>

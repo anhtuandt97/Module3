@@ -9,6 +9,8 @@ import {Employee} from '../../../model/employee';
   styleUrls: ['./employee-list.component.scss']
 })
 export class EmployeeListComponent implements OnInit, OnDestroy {
+  page = 1;
+  search: string;
   public subscription: Subscription;
   public employee: Employee[] = [];
   constructor( private employeeService: EmployeeService) { }
@@ -23,6 +25,10 @@ export class EmployeeListComponent implements OnInit, OnDestroy {
     if (this.subscription) {
       this.subscription.unsubscribe();
     }
+  }
+
+  onClick(value) {
+    this.search = value;
   }
 
 }

@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a2a3df9-8ac8-4c6c-88ef-1dcda8419ede" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9.ModuleAndDJ/angular-ModuleDJ/src/app/image-gallery/image-gallery.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/9.ModuleAndDJ/angular-ModuleDJ/src/app/image-gallery/image-gallery.component.ts" afterDir="false" />
-    </list>
-    <ignored path="$PROJECT_DIR$/5.Angular/CGDN-Angular-StackBlitz-master/CGDN-Angular-StackBlitz-master/node_modules/" />
-    <ignored path="$PROJECT_DIR$/5.Angular/angular-overview/angular-calculator/node_modules/" />
-    <ignored path="$PROJECT_DIR$/5.Angular/angular-overview/angular-chance-font-size/node_modules/" />
-    <ignored path="$PROJECT_DIR$/5.Angular/angular-overview/angular-color-picker/node_modules/" />
-    <ignored path="$PROJECT_DIR$/5.Angular/angular-overview/angular-show-pet-profile/node_modules/" />
-    <ignored path="$PROJECT_DIR$/4.TypeScript/THbienKieuDuLieu/TH1.js/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="3a2a3df9-8ac8-4c6c-88ef-1dcda8419ede" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,25 +33,6 @@
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Module3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Module3" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
-  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -92,18 +63,6 @@
       <recent name="D:\Codegym2019\Module3\2.Bootstrap\Shoppee\img" />
       <recent name="D:\Codegym2019\Module3\Bootstrap\BTJQuery" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration name="user.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Module3/2.Bootstrap/Shoppee/user.html" useBuiltInWebServerPort="true">
@@ -166,6 +125,8 @@
       <workItem from="1585755654591" duration="9000" />
       <workItem from="1586310296318" duration="323000" />
       <workItem from="1586330022769" duration="908000" />
+      <workItem from="1586421288054" duration="165000" />
+      <workItem from="1586428969968" duration="2000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1584090360499</created>
@@ -223,34 +184,15 @@
       <option name="project" value="LOCAL" />
       <updated>1586330226891</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="commit">
+      <created>1586421495892</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1586421495892</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1231000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="TypeScript" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32935154" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -273,10 +215,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="92" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1584090368086" />
-    <state x="359" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1585755659216">
+    <state x="359" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1586428970365">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="359" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585755659216" />
+    <state x="359" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586428970365" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
